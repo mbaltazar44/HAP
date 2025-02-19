@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "HAP_API.Controllers.DoctorsController",
+    "Method": "GetDoctors",
+    "RelativePath": "api/Doctors/GetDoctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.DoctorsController",
+    "Method": "NewDoctorByHospital",
+    "RelativePath": "api/Doctors/NewDoctorByHospital",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "HAP_API.DTO.DoctorsDTO.DoctorByHospitalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.HospitalsController",
+    "Method": "GetHospitals",
+    "RelativePath": "api/Hospitals/GetHospitals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.HospitalsController",
+    "Method": "GetHospitalsByDoctor",
+    "RelativePath": "api/Hospitals/GetHospitalsByDoctor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.HospitalsController",
+    "Method": "NewHospital",
+    "RelativePath": "api/Hospitals/NewHospital",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hospital",
+        "Type": "HAP_API.DTO.HospitalsDTO.HospitalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.PatientsController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patients/DeletePatient/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.PatientsController",
+    "Method": "EditPatient",
+    "RelativePath": "api/Patients/EditPatient",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "HAP_API.DTO.PatientsDTO.PatientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.PatientsController",
+    "Method": "GetPatient",
+    "RelativePath": "api/Patients/GetPatient/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.PatientsController",
+    "Method": "GetPatientsByHospital",
+    "RelativePath": "api/Patients/GetPatientsByHospital/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HAP_API.Controllers.PatientsController",
+    "Method": "NewPatient",
+    "RelativePath": "api/Patients/NewPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "HAP_API.DTO.PatientsDTO.PatientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KNtr/B63xT/oKIViJ6fceECtSLAPobOUptZWvrWuVyY=",
+  "Source": "HAP_API",
+  "BasePath": "_content/HAP_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

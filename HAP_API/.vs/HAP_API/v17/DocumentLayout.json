@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HAP\\HAP_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|c:\\hap\\hap_api\\hap_api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|solutionrelative:hap_api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|c:\\hap\\hap_api\\hap_api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|solutionrelative:hap_api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|c:\\hap\\hap_api\\hap_api\\dto\\doctorsdto\\hospitalsbydoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|solutionrelative:hap_api\\dto\\doctorsdto\\hospitalsbydoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|c:\\hap\\hap_api\\hap_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D368E1B9-CF6B-4399-9B3C-A1251D2D18BC}|HAP_API\\HAP_API.csproj|solutionrelative:hap_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "HAP_API\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "HAP_API\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:07:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalsByDoctorDTO.cs",
+              "DocumentMoniker": "C:\\HAP\\HAP_API\\HAP_API\\DTO\\DoctorsDTO\\HospitalsByDoctorDTO.cs",
+              "RelativeDocumentMoniker": "HAP_API\\DTO\\DoctorsDTO\\HospitalsByDoctorDTO.cs",
+              "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\DTO\\DoctorsDTO\\HospitalsByDoctorDTO.cs",
+              "RelativeToolTip": "HAP_API\\DTO\\DoctorsDTO\\HospitalsByDoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:05:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HAP_API\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HAP_API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwGgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:05:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HAP\\HAP_API\\HAP_API\\Program.cs",
+              "RelativeDocumentMoniker": "HAP_API\\Program.cs",
+              "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\Program.cs",
+              "RelativeToolTip": "HAP_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:05:14.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
