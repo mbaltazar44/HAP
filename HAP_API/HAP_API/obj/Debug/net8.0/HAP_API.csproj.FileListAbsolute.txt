@@ -206,3 +206,4 @@ C:\HAP\HAP_API\HAP_API\obj\Debug\net8.0\refint\HAP_API.dll
 C:\HAP\HAP_API\HAP_API\obj\Debug\net8.0\HAP_API.pdb
 C:\HAP\HAP_API\HAP_API\obj\Debug\net8.0\HAP_API.genruntimeconfig.cache
 C:\HAP\HAP_API\HAP_API\obj\Debug\net8.0\ref\HAP_API.dll
+C:\HAP\HAP_API\HAP_API\obj\Debug\net8.0\HAP_API.sourcelink.json

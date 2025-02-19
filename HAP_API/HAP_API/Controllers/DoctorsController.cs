@@ -42,17 +42,14 @@ namespace HAP_API.Controllers
             {
                 if (doctor != null)
                 {
-                    response.Result = doctor;
-                    var searchDoctor = await dbContext.Doctors.FindAsync(doctor.doctorId);
-                    if(searchDoctor == null)
+                    response.Result = doctor;                    
+                    
+                    Doctor newDoctor = new Doctor
                     {
-                        Doctor newDoctor = new Doctor
-                        {
-                            DoctorName = doctor.doctorName
-                        };
-                        await dbContext.Doctors.AddAsync(newDoctor);
-                        await dbContext.SaveChangesAsync();
-                    }                    
+                        DoctorName = doctor.doctorName
+                    };
+                    await dbContext.Doctors.AddAsync(newDoctor);
+                    await dbContext.SaveChangesAsync();                    
 
                     HospitalByDoctor hospitalByDoctor = new HospitalByDoctor
                     {

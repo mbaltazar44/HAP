@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HAP_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd67cde948c3df774e67eb00386a2bb03176dd11")]
 [assembly: System.Reflection.AssemblyProductAttribute("HAP_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HAP_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

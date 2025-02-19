@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "HAP_API\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "HAP_API\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T07:07:35.813Z",
               "EditorCaption": ""
@@ -51,8 +55,7 @@
               "RelativeToolTip": "HAP_API\\DTO\\DoctorsDTO\\HospitalsByDoctorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:05:37.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T07:05:37.374Z"
             },
             {
               "$type": "Document",
@@ -64,8 +67,7 @@
               "RelativeToolTip": "HAP_API\\Controllers\\PatientsController.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAIwGgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:05:33.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T07:05:33.475Z"
             },
             {
               "$type": "Document",
@@ -77,8 +79,7 @@
               "RelativeToolTip": "HAP_API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T07:05:14.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T07:05:14.423Z"
             }
           ]
         }
