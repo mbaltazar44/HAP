@@ -142,7 +142,7 @@ export function NewDoctor(){
                         </FormGroup>
                         <FormGroup>
                             <Label>Nombre</Label>
-                            <Input type="text" name="doctorName" maxLength={50} onChange={inputChangeValue} value={name != '' ? name: doctor.doctorName} invalid ={errorName} disabled={id != '0' ? true: false} ></Input>
+                            <Input type="text" name="doctorName" maxLength={50} onChange={inputChangeValue} value={name != '' ? name: doctor.doctorName} invalid ={errorName} ></Input>
                             <FormFeedback>
                                 {errorName ? 'El Nombre es requerido' : ''}
                             </FormFeedback>

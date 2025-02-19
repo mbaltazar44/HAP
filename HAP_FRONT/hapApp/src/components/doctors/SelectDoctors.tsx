@@ -7,9 +7,7 @@ import { Link } from "react-router-dom";
 
 
 export function SelectDoctors(props){
-    const [options, setOptions] = useState([])
-    const [id, setId] = useState(0)
-    const [name, setName] = useState('')
+    const [options, setOptions] = useState([])    
     
 
     useEffect(() => {
@@ -50,7 +48,7 @@ export function SelectDoctors(props){
             </Input>      
             </Col>
             <Col style={{textAlign:"right", padding:0, margin:0}}>
-            <Link className="btn btn-outline-success mb-3" to={`/newDoctor/${id}/${name}`} >Nuevo</Link>
+            <Link className="btn btn-outline-success mb-3" to={`/newDoctor`} >Nuevo</Link>
             </Col>
             
         </Row>

@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "HAP_API\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\HAP\\HAP_API\\HAP_API\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "HAP_API\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwDMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T07:07:35.813Z",
               "EditorCaption": ""

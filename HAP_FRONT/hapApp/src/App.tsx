@@ -11,7 +11,7 @@ function App() {
         <Route path="/" element={<ListPatients />}/>
         <Route path="/newPatient/:id" element={<NewPatient />}/>
         <Route path="/editPatient/:id" element={<EditPatient />}/>
-        <Route path="/newDoctor/:id?/:name?" element={<NewDoctor />}/>
+        <Route path="/newDoctor" element={<NewDoctor />}/>
         <Route path="/newHospital" element={<NewHospital />}/>
       </Routes>
     </BrowserRouter>
